@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,bd93f9,ff79c6,8be9fd&height=250&section=header&text=Hi!%20I'm%20Arnav%20Garg&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20%26%20Competitive%20Programming&descAlignY=55&descSize=25&fontColor=f8f8f2" alt="Header" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=bd93f9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+%26+Competitive+Programmer;Python,+Java,+C%2B%2B+Programmer;Always+learning+new+things..." alt="Typing SVG" />
 </div>
 
@@ -21,24 +25,51 @@
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=FF79C6" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=java&logoColor=FFB86C" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-282A36?style=for-the-badge&logo=c%2B%2B&logoColor=8BE9FD" alt="C++" />
-  <img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=8BE9FD" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF5555" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD" alt="CSS" />
-  <img src="https://img.shields.io/badge/Figma-282A36?style=for-the-badge&logo=figma&logoColor=FF79C6" alt="Figma" />
+  <h4>Languages</h4>
+  <p>
+    <img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=8BE9FD" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-282A36?style=for-the-badge&logo=c%2B%2B&logoColor=8BE9FD" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=java&logoColor=FFB86C" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=FF79C6" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=8BE9FD" alt="TypeScript" />
+  </p>
+
+  <h4>Frontend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF5555" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=8BE9FD" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-282A36?style=for-the-badge&logo=tailwind-css&logoColor=8BE9FD" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/Figma-282A36?style=for-the-badge&logo=figma&logoColor=FF79C6" alt="Figma" />
+  </p>
+
+  <h4>Backend & Databases</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=node.js&logoColor=50FA7B" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-282A36?style=for-the-badge&logo=express&logoColor=F8F8F2" alt="Express.js" />
+    <img src="https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=50FA7B" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-282A36?style=for-the-badge&logo=mysql&logoColor=8BE9FD" alt="MySQL" />
+  </p>
+
+  <h4>Tools & Platforms</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=FF5555" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Postman-282A36?style=for-the-badge&logo=postman&logoColor=FFB86C" alt="Postman" />
+    <img src="https://img.shields.io/badge/VS_Code-282A36?style=for-the-badge&logo=visual-studio-code&logoColor=8BE9FD" alt="VS Code" />
+  </p>
 </div>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">📈 GitHub Activity Graph</h2>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArnavGarg7&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Arnav's Trophies" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavGarg7&theme=dracula&bg_color=282a36&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
