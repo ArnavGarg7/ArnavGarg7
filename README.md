@@ -15,7 +15,7 @@
   <ul align="left">
     <li>🎓 <strong>B.Tech CSE</strong> student at UPES.</li>
     <li>💼 <strong>Experience:</strong> AIML Intern @ <strong>TagTaste Foods</strong> | AI Intern @ <strong>Mirai School of Tech</strong> | Full Stack Dev @ <strong>Unified Mentor</strong>.</li>
-    <li>🌱 Currently focusing on <strong>AI/ML</strong>, <strong>DSA and Full </strong>.</li>
+    <li>🌱 Currently focusing on <strong>AI/ML</strong> and <strong>DSA and Full Stack Development </strong>.</li>
     <li>💬 Ask me about <strong>Python, React, FastAPI, Machine Learning</strong>.</li>
     <li>📄 Check out my <a href="https://drive.google.com/file/d/1hbaiaV0upi0Z0Dd2EGSkeFrpFRnCqGqk/view?usp=sharing"><strong>Resume</strong></a>.</li>
     <li>⚡ Fun fact: I am a <strong>national-level Lawn Tennis player</strong> and love reading <strong>novels</strong>!</li>
@@ -75,11 +75,10 @@
 <h2 align="center">📊 Stats & Activity</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArnavGarg7&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArnavGarg7&theme=dracula&utcOffset=5.5" width="48%" alt="Productive Time" />
+  <img src="https://streak-stats.demolab.com?user=ArnavGarg7&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=8be9fd" width="48%" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnavGarg7&theme=dracula" width="32%" alt="Summary Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavGarg7&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" width="60%" alt="Top Languages" />
 </div>
 
