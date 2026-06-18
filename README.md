@@ -75,7 +75,7 @@
 <h2 align="center">📊 Stats & Activity</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArnavGarg7&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ArnavGarg7&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=8be9fd" width="48%" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/ArnavGarg7/ArnavGarg7/output/streak.svg" width="48%" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
