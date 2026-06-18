@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Hi!%20I'm%20Arnav%20Garg&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20and%20Competitive%20Programming&descAlignY=70&descSize=22&fontColor=8be9fd&font=Fira%20Code" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Hi!%20I'm%20Arnav%20Garg&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Student&descAlignY=70&descSize=22&fontColor=8be9fd&font=Fira%20Code" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=bd93f9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+and+Competitive+Programmer;Python,+Java,+C%2B%2B+Programmer;Always+learning+new+things..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=bd93f9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Student;Python,+Java,+C%2B%2B;Always+learning+new+things..." alt="Typing SVG" />
 </div>
 
 <br>
@@ -14,10 +14,11 @@
   <h2 align="left">👨‍💻 About Me</h2>
   <ul align="left">
     <li>🎓 <strong>B.Tech CSE</strong> student at UPES.</li>
-    <li>🌱 Currently focusing on <strong>Web Development, DSA, and Competitive Programming</strong>.</li>
-    <li>💬 Ask me about <strong>Python, Java, C++, Full Stack Web Development</strong>.</li>
+    <li>💼 <strong>Experience:</strong> AIML Intern @ <strong>TagTaste Foods</strong> | AI Intern @ <strong>Mirai School of Tech</strong> | Full Stack Dev @ <strong>Unified Mentor</strong>.</li>
+    <li>🌱 Currently focusing on <strong>AI/ML</strong> and <strong>Full Stack Web Development</strong>.</li>
+    <li>💬 Ask me about <strong>Python, React, FastAPI, Machine Learning</strong>.</li>
     <li>📄 Check out my <a href="https://drive.google.com/file/d/1hbaiaV0upi0Z0Dd2EGSkeFrpFRnCqGqk/view?usp=sharing"><strong>Resume</strong></a>.</li>
-    <li>⚡ Fun fact: I love playing <strong>Lawn Tennis</strong>, <strong>painting</strong>, and reading <strong>Novels</strong>.</li>
+    <li>⚡ Fun fact: I am a <strong>national-level Lawn Tennis player</strong> and love reading <strong>novels</strong>!</li>
   </ul>
 </div>
 
