@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,bd93f9,ff79c6,8be9fd&height=250&section=header&text=Hi!%20I'm%20Arnav%20Garg&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20%26%20Competitive%20Programming&descAlignY=55&descSize=25&fontColor=f8f8f2" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Hi!%20I'm%20Arnav%20Garg&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20%26%20Competitive%20Programming&descAlignY=55&descSize=25&fontColor=bd93f9" alt="Header" />
 </div>
 
 <div align="center">
@@ -76,7 +76,7 @@
 <h2 align="center">📊 Stats & Activity</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArnavGarg7&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavGarg7&theme=dracula&hide_border=true&background=282a36" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ArnavGarg7&theme=dracula&hide_border=true&background=282a36" width="48%" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
