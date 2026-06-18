@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Hi!%20I'm%20Arnav%20Garg&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20%26%20Competitive%20Programming&descAlignY=55&descSize=25&fontColor=bd93f9" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=200&section=header&text=Hi!%20I'm%20Arnav%20Garg&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20and%20Competitive%20Programming&descAlignY=65&descSize=22&fontColor=bd93f9&font=Fira%20Code" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=bd93f9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+%26+Competitive+Programmer;Python,+Java,+C%2B%2B+Programmer;Always+learning+new+things..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=bd93f9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+and+Competitive+Programmer;Python,+Java,+C%2B%2B+Programmer;Always+learning+new+things..." alt="Typing SVG" />
 </div>
 
 <br>
@@ -66,11 +66,9 @@
 
 ---
 
-<h2 align="center">📈 GitHub Activity Graph</h2>
+<h2 align="center">💡 Quote of the Day</h2>
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavGarg7&theme=dracula&bg_color=282a36&hide_border=true" alt="Activity Graph" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
 </div>
 
 <h2 align="center">📊 Stats & Activity</h2>
