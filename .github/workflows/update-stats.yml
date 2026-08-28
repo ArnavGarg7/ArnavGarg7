@@ -1,0 +1,32 @@
+name: Generate Offline Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: output # Saves the images to your output branch
+
+      - name: Download Stats Images
+        run: |
+          # The '-f' flag ensures that if the server is down, it DOES NOT overwrite your working images with an error page!
+          curl -f -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=ArnavGarg7&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&count_private=true" || echo "Server busy, keeping old stats"
+          
+          curl -f -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavGarg7&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" || echo "Server busy, keeping old langs"
+          
+          curl -f -o github-streak.svg "https://streak-stats.demolab.com/?user=ArnavGarg7&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=8be9fd" || echo "Server busy, keeping old streak"
+
+      - name: Push to Output Branch
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-stats.svg top-langs.svg github-streak.svg
+          git commit -m "chore: update offline stats" || echo "No new changes"
+          git push origin output
